@@ -1,0 +1,11 @@
+C:\work\python
+01:1214
+02:EF00"33,P"
+03:B00E1"200"
+04:Button 4
+05:Button 5
+06:Button 6
+07:Button 7
+08:Button 8
+09:Button 9
+10:Button 10
